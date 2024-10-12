@@ -1,3 +1,6 @@
+# XiaoDingDong
+
+
 This project is a web-based ordering system for Food & Beverage establishments, built using the Laravel framework. It enables customers to browse menus, place orders, and manage payments seamlessly. The system also provides admin functionality to manage orders, menu items, and track sales data. Features include:
 
 - User authentication (login/register)
