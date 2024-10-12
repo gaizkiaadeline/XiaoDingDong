@@ -1,0 +1,19 @@
+*{
+    padding:0;
+    margin: 0;
+    /* background-color: black; */
+
+}
+
+body {
+    background-color: black;
+}
+
+.sub-menu, .title-menu{
+    color: brown;
+    font-family: 'Times New Roman';
+}
+
+.title{
+    /* font-style: bold; */
+}
