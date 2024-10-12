@@ -6,8 +6,6 @@ This project is a web-based ordering system for Food & Beverage establishments, 
 
 - Cart and order management
 
-- Payment gateway integration
-
 - Admin dashboard for managing orders and menus (CRUD)
 
 Built with Laravel for backend operations, this project demonstrates a robust, scalable solution for the F&B industry.
