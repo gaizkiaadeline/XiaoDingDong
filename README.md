@@ -18,7 +18,7 @@ You can check the Documentation here : https://github.com/gaizkiaadeline/XiaoDin
 
 ------------------------------------
 
-Copy the contents of .env.example into a new file called .env. Fill out the appropriate credentials for the database in lines 11-15. If you do not have a database, then you need to create it first.
+Copy the contents of .env.example into a new file called .env. Fill out the appropriate credentials for the database in lines of code. If you do not have a database, then you need to create it first.
 
 ```
 DB_CONNECTION=mysql
