@@ -20,19 +20,24 @@ You can check the Documentation here : https://github.com/gaizkiaadeline/XiaoDin
 
 Copy the contents of .env.example into a new file called .env. Fill out the appropriate credentials for the database in lines 11-15. If you do not have a database, then you need to create it first.
 
+```
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=xiaodingdong
 DB_USERNAME=xiaodingdong
 DB_PASSWORD=
+```
 
 
 Run the following commands:
+```
 composer install
 php artisan migrate:fresh --seed
 php artisan storage:link
 php artisan key:generate
+```
+
 Run the server using php artisan serve, and navigate to localhost:8000/.
 
 
