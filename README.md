@@ -15,6 +15,7 @@ Built with Laravel for backend operations, this project demonstrates a robust, s
 
 You can check the Documentation here : https://github.com/gaizkiaadeline/XiaoDingDong/blob/main/Documentation%20LAB%20WP%20Final%20Project.pdf
 
+![Screenshot 2024-10-17 082228](https://github.com/user-attachments/assets/c2dd935c-a8dd-468b-aa11-9cea4bae85de)
 
 ------------------------------------
 
